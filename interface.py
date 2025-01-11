@@ -1,5 +1,6 @@
 # THIS IS THE COMMAND PROMPT.
-# This is where commands are executed and the CLI is shown
+# This is where commands are executed and the CLI is shown.
+# You usually don't need to touch this unless you want to modify the imports and/or the CLI.
 
 
 # Import Modules #
@@ -12,11 +13,6 @@ import commands
 cmd_version = "0.0.1-alpha-dev"
 
 
-# Functions #
-
-# version Command - the ONLY command in interface
-def version():
-    return cmd_version
 
 
 # Command Loop #

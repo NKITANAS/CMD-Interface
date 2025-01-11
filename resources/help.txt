@@ -1,0 +1,1 @@
+version - gets current version of CMD-INTERFACE.
